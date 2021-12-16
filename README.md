@@ -1,1 +1,1 @@
-SAM-MOTORS Server
+Sam-Weds Server
